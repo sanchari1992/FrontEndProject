@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;   /* Centers horizontally */
+    align-items: center;       /* Centers vertically */
+    height: 100vh;             /* Full viewport height */
+    margin: 0;                 /* Remove default margin */
+}
+
+h1 {
+    text-align: center;        /* Centers the text inside the h1 */
+}
